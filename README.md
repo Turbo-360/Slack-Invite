@@ -14,7 +14,7 @@ The following example invites 'dkwon@turbo360.co' to the Turbo 360 workspace
 ```
 GET
 
-http://api.turbo360.co/vectors/slack-invite-jofodi/slackInvite?email=dkwon@turbo360.co&slack=turbo-360&token=xoxp-89488687398-89437605251-243287901797-405e48067e6581402ffcaeabf93b6a99
+http://api.turbo360.co/vectors/slack-invite-jofodi/slackInvite?email=dkwon@turbo360.co&slack=turbo-360&token=SLACK_ACESS_TOKEN
 ```
 
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
